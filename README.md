@@ -1,81 +1,81 @@
 # cs4330-FinalProject Documentation
 
-###Language purpose/genesis
+### Language purpose/genesis
   - [Java]()
   - [C#]()
 
-###Unique features of the language
+### Unique features of the language
   - [Java]()
   - [C#]()
 
-###Name spaces
+### Name spaces
   - [Java]()
   - [C#]()
 
-###Types
+### Types
   - [Java]()
   - [C#]()
 
-###Classes
+### Classes
   - [Java]()
   - [C#]()
 
-###Instance reference name in data type (class)
+### Instance reference name in data type (class)
   - [Java]()
   - [C#]()
 
-###Properties
+### Properties
   - [Java]()
   - [C#]()
 
-###Interfaces / protocols
+### Interfaces / protocols
   - [Java]()
   - [C#]()
 
-###Inheritance / extension
+### Inheritance / extension
   - [Java]()
   - [C#]()
 
-###Reflection
+### Reflection
   - [Java]()
   - [C#]()
 
-###Memory management
+### Memory management
   - [Java]()
   - [C#]()
 
-###Comparisons of references and values
+### Comparisons of references and values
   - [Java]()
   - [C#]()
 
-###Null/nil references
+### Null/nil references
   - [Java]()
   - [C#]()
 
-###Errors and exception handling
+### Errors and exception handling
   - [Java]()
   - [C#]()
 
-###Lambda expressions, closures, or functions as types
+### Lambda expressions, closures, or functions as types
   - [Java]()
   - [C#]()
 
-###Implementation of listeners and event handlers
+### Implementation of listeners and event handlers
   - [Java]()
   - [C#]()
 
-###Singleton
+### Singleton
   - [Java]()
   - [C#]()
 
-###Procedural programming
+### Procedural programming
   - [Java]()
   - [C#]()
 
-###Functional programming
+### Functional programming
   - [Java]()
   - [C#]()
 
-###Multithreading
+### Multithreading
   - [Java]()
   - [C#]()
