@@ -1,5 +1,10 @@
 # cs4330-FinalProject Documentation
 
+Comparison of C# and Java.
+
+####Team: 
+  Peter Eckelmann
+
 ### Language purpose/genesis
   - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/01%20-%20Language%20purpose/Language%20purpose-C%23PlaceHolder.txt)
   - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/01%20-%20Language%20purpose/Language%20purpose-JavaPlaceHolder.txt)
