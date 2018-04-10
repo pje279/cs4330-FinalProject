@@ -72,7 +72,7 @@
   - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/16%20-%20Implementation%20of%20listeners%20and%20event%20handlers/Implementation%20of%20listeners%20and%20event%20handlers-JavaPlaceHolder.txt)
 
 ### Singleton
-  - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/17%20-%20Singleton/Singleton-C%23PlaceHolder.txt)
+  - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/17%20-%20Singleton/Singleton.cs)
   - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/17%20-%20Singleton/Singleton.java)
 
 ### Procedural programming
