@@ -66,7 +66,7 @@
 
 ### Singleton
   - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/17%20-%20Singleton/Singleton-C%23PlaceHolder.txt)
-  - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/17%20-%20Singleton/Singleton-JavaPlaceHolder.txt)
+  - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/17%20-%20Singleton/Singleton.java)
 
 ### Procedural programming
   - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/18%20-%20Procedural%20programming/Procedural%20programming-C%23PlaceHolder.txt)
