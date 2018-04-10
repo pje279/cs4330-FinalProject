@@ -1,8 +1,8 @@
 # cs4330-FinalProject Documentation
 
 ### Language purpose/genesis
-  - [Java]()
-  - [C#]()
+  - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/01%20-%20Language%20purpose/Language%20purpose-JavaPlaceHolder.txt)
+  - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/01%20-%20Language%20purpose/Language%20purpose-C%23PlaceHolder.txt)
 
 ### Unique features of the language
   - [Java]()
