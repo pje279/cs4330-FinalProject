@@ -1,81 +1,81 @@
 # cs4330-FinalProject Documentation
 
 ### Language purpose/genesis
-  - [Java](01%20-%20Language%20purpose/JavaPlaceHolder.txt)
   - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/01%20-%20Language%20purpose/Language%20purpose-C%23PlaceHolder.txt)
+  - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/01%20-%20Language%20purpose/Language%20purpose-JavaPlaceHolder.txt)
 
 ### Unique features of the language
-  - [Java]()
-  - [C#]()
+  - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/02%20-%20Unique%20features/Unique%20features-C%23PlaceHolder.txt)
+  - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/02%20-%20Unique%20features/Unique%20features-JavaPlaceHolder.txt)
 
 ### Name spaces
-  - [Java]()
-  - [C#]()
+  - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/03%20-%20Name%20spaces/Name%20spaces-C%23PlaceHolder.txt)
+  - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/03%20-%20Name%20spaces/Name%20spaces-JavaPlaceHolder.txt)
 
 ### Types
-  - [Java]()
-  - [C#]()
+  - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/04%20-%20Types/Types-C%23PlaceHolder.txt)
+  - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/04%20-%20Types/Types-JavaPlaceHolder.txt)
 
 ### Classes
-  - [Java]()
-  - [C#]()
+  - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/05%20-%20Classes/Classes-C%23PlaceHolder.txt)
+  - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/05%20-%20Classes/Classes-JavaPlaceHolder.txt)
 
 ### Instance reference name in data type (class)
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Properties
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Interfaces / protocols
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Inheritance / extension
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Reflection
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Memory management
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Comparisons of references and values
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Null/nil references
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Errors and exception handling
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Lambda expressions, closures, or functions as types
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Implementation of listeners and event handlers
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Singleton
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Procedural programming
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Functional programming
-  - [Java]()
   - [C#]()
+  - [Java]()
 
 ### Multithreading
-  - [Java]()
   - [C#]()
+  - [Java]()
