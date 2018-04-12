@@ -1,6 +1,26 @@
-public class Singleton
+//Static Initialization
+public sealed class Singleton
 {
-   private static Singleton instance;
+   private static readonly Singleton instance = new Singleton();
+   
+   private Singleton(){}
+
+   public static Singleton Instance
+   {
+      get 
+      {
+         return instance; 
+      }
+   }
+}
+
+/******************************************************************/
+
+//Multithreaded Singleton
+public sealed class Singleton
+{
+   private static volatile Singleton instance;
+   private static object syncRoot = new Object();
 
    private Singleton() {}
 
@@ -8,10 +28,15 @@ public class Singleton
    {
       get 
       {
-         if (instance == null)
+         if (instance == null) 
          {
-            instance = new Singleton();
+            lock (syncRoot) 
+            {
+               if (instance == null) 
+                  instance = new Singleton();
+            }
          }
+
          return instance;
       }
    }
