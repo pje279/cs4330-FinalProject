@@ -74,7 +74,7 @@
 ### Singleton
   - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/17%20-%20Singleton/Singleton.cs)
   
-  As stated [here] (https://sourcemaking.com/design_patterns/singleton/java/1), for the code example linked below, "The technique is known as the initialization on demand holder idiom, is as lazy as possible, and works in all known versions of Java. It takes advantage of language guarantees about class initialization, and will therefore work correctly in all Java-compliant compilers and virtual machines.
+  As stated [here](https://sourcemaking.com/design_patterns/singleton/java/1), for the code example linked below, "The technique is known as the initialization on demand holder idiom, is as lazy as possible, and works in all known versions of Java. It takes advantage of language guarantees about class initialization, and will therefore work correctly in all Java-compliant compilers and virtual machines.
 
 The inner class is referenced no earlier (and therefore loaded no earlier by the class loader) than the moment that getInstance() is called. Thus, this solution is thread-safe without requiring special language constructs (i.e. volatile or synchronized)."
   - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/17%20-%20Singleton/Singleton.java)
