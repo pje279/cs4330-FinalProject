@@ -72,6 +72,9 @@
   - [Java](https://github.com/pje279/cs4330-FinalProject/blob/master/16%20-%20Implementation%20of%20listeners%20and%20event%20handlers/Implementation%20of%20listeners%20and%20event%20handlers-JavaPlaceHolder.txt)
 
 # Singleton
+  The [documentation for C#](https://msdn.microsoft.com/en-us/library/ff650316.aspx) lists three ways of creating a singleton, two of which are shown in the code example linked below. The first way listed is not included because it has the issue of not being safe for multithreaded environments, as well, "[because] the instance is created inside the Instance property method, the class can exercise additional functionality (for example, instantiating a subclass), even though it may introduce unwelcome dependencies." (from the [C# documentation](https://msdn.microsoft.com/en-us/library/ff650316.aspx))
+  
+  Two version are given, because while the static initialization approach is the preferred, and generally sufficient one, the "potential downside of this approach is that you have less control over the mechanics of the instantiation." (from the [C# documentation](https://msdn.microsoft.com/en-us/library/ff650316.aspx)) because the .NET Framework performs the initialization and not the user.
   - [C#](https://github.com/pje279/cs4330-FinalProject/blob/master/17%20-%20Singleton/Singleton.cs)
   
   As stated [here](https://sourcemaking.com/design_patterns/singleton/java/1), for the code example linked below, "The technique is known as the initialization on demand holder idiom, is as lazy as possible, and works in all known versions of Java. It takes advantage of language guarantees about class initialization, and will therefore work correctly in all Java-compliant compilers and virtual machines.
