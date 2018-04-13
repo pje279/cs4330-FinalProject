@@ -1,4 +1,4 @@
-/**Inheritence**/
+/****************Inheritence****************/
 //Base class or Parent class.  
 class Shape  
 {  
@@ -27,7 +27,7 @@ class Triangle : Shape
     }  
 } 
 
-/**Extension**/
+/****************Extension/****************/
 //This example adds an extension to string
 public static class ExtensionMethods
 {
