@@ -116,7 +116,7 @@
     
   ### Java
   Uses 'Null.'
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/13%20-%20Null%20references/Null%20references-JavaPlaceHolder.txt)
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/13%20-%20Null%20references/Null%20references.java)
 
 # Errors and exception handling -------------------------
   ### C#
