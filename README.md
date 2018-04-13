@@ -98,7 +98,7 @@
   Uses garbage collection.
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/11%20-%20Memory%20management/Memory%20management-JavaPlaceHolder.txt)
 
-# Comparisons of references and values -------------------------
+# Comparisons of references and values
   ### C#
   The == operator returns true and false for value types if the are the same or different respectively, as well as for the value of strings, but returns true or false if the addresses are the same or not respectively for all reference types other than string.
   - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/12%20-%20Comparisons%20of%20references%20and%20values/Comparisons%20of%20references%20and%20values.cs)
@@ -107,11 +107,15 @@
   The == operator compares the values of value types, and returns true or false depending on the result, but for reference types (ie. objects, including strings (unlike C#)) it compares the addresses of the objects. To determine the equality of the value of referenece types, the equals() method must be used.
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/12%20-%20Comparisons%20of%20references%20and%20values/Comparisons%20of%20references%20and%20values.java)
 
-# Null/nil references -------------------------
+# Null/nil references
+  Both C# and Java allow for reference types to be null, as well the user can check if something is null and then handle it manually, throw an exception, or if nothing is done to prevent/handle a null reference, the program itself with throw a null reference exception which will crash the program if it is not explicitly handled in the code.
+
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/13%20-%20Null%20references/Null%20references-C%23PlaceHolder.txt)
+  Uses 'null.'
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/13%20-%20Null%20references/Null%20references.cs)
     
   ### Java
+  Uses 'Null.'
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/13%20-%20Null%20references/Null%20references-JavaPlaceHolder.txt)
 
 # Errors and exception handling -------------------------
