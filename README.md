@@ -44,10 +44,10 @@
 
 # Instance reference name in data type (class)
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/06%20-%20Instance%20reference%20name%20in%20data%20type%20(class)/Instance%20reference%20name%20in%20data%20type%20(class)-C%23PlaceHolder.txt)
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/06%20-%20Instance%20reference%20name%20in%20data%20type%20(class)/Instance%20Referenec%20Name.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/06%20-%20Instance%20reference%20name%20in%20data%20type%20(class)/Instance%20reference%20name%20in%20data%20type%20(class)JavaPlaceHolder.txt)
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/06%20-%20Instance%20reference%20name%20in%20data%20type%20(class)/Instance%20Reference%20Name.java)
 
 # Properties
   ### C#
