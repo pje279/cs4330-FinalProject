@@ -30,10 +30,10 @@
 
 # Types
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/04%20-%20Types/Types-C%23PlaceHolder.txt)
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/04%20-%20Types/Types.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/04%20-%20Types/Types-JavaPlaceHolder.txt)
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/04%20-%20Types/Types.java)
 
 # Classes
   ### C#
