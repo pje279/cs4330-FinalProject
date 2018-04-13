@@ -1,8 +1,8 @@
 public class Employee {
-  String  name     ;
-  String  position ;
-  int     salary   ;
-  Date    hiredDate;
+  String name;
+  String position ;
+  int salary;
+  Date hiredDate;
   
   //Getters and setters example
   public String getName() {
