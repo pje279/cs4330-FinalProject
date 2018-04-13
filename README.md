@@ -60,8 +60,8 @@
   Supports user written getters and setters, but does not have built in getters and setters. As well, it does not have backing variables or computed properties, at least not out of the box.
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/07%20-%20Properties/Properties.java)
 
-# Interfaces / protocols
-  Neither C# or Java support multiple inheritence, but allow for that kind of behavior through interfaces given that a class can implement multiple interfaces, as well as an interface can extend other interfaces.
+# Interfaces / Protocols
+  Neither C# or Java support multiple inheritance, but allow for that kind of behavior through interfaces given that a class can implement multiple interfaces, as well as an interface can extend other interfaces.
 
   ### C#
   - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/08%20-%20Interfaces/Interfaces.cs)
@@ -69,12 +69,16 @@
   ### Java
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/08%20-%20Interfaces/Interfaces.java)
 
-# Inheritance / extension -------------------------
+# Inheritance / Extension
+  As stated above in Interfaces / Protocols, neither C# or Java support multiple inheritance.
+
   #### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/09%20-%20Inheritence%20-%20extension/Inheritence%20-%20extension-C%23PlaceHolder.txt)
+  C# does also support extensions of existing classes/interfaces unlike Java.
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/09%20-%20Inheritence%20-%20extension/Inheritence%20-%20Extension.cs)
    
   ### Java
-   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/09%20-%20Inheritence%20-%20extension/Inheritence%20-%20extension-JavaPlaceHolder.txt)
+  Does not support extensions.
+   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/09%20-%20Inheritence%20-%20extension/Inheritence%20-%20Extension.java)
 
 # Reflection -------------------------
   ### C#
