@@ -1,4 +1,4 @@
-//Properties with backing fields
+//Properties with backing fields/ computed properties
 class TimePeriod
 {
    private double seconds;
