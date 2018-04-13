@@ -91,17 +91,21 @@
 
 # Memory management -------------------------
   ### C#
+  Uses garbage collection from the .NET Framework.
   - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/11%20-%20Memory%20management/Memory%20management-C%23PlaceHolder.txt)
     
   ### Java
+  Uses garbage collection.
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/11%20-%20Memory%20management/Memory%20management-JavaPlaceHolder.txt)
 
 # Comparisons of references and values -------------------------
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/12%20-%20Comparisons%20of%20references%20and%20values/Comparisons%20of%20references%20and%20values-C%23PlaceHolder.txt)
+  The == operator returns true and false for value types if the are the same or different respectively, as well as for the value of strings, but returns true or false if the addresses are the same or not respectively for all reference types other than string.
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/12%20-%20Comparisons%20of%20references%20and%20values/Comparisons%20of%20references%20and%20values.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/12%20-%20Comparisons%20of%20references%20and%20values/Comparisons%20of%20references%20and%20values-JavaPlaceHolder.txt)
+  The == operator compares the values of value types, and returns true or false depending on the result, but for reference types (ie. objects, including strings (unlike C#)) it compares the addresses of the objects. To determine the equality of the value of referenece types, the equals() method must be used.
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/12%20-%20Comparisons%20of%20references%20and%20values/Comparisons%20of%20references%20and%20values.java)
 
 # Null/nil references -------------------------
   ### C#
