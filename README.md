@@ -37,10 +37,10 @@
 
 # Classes
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/05%20-%20Classes/Classes-C%23PlaceHolder.txt)
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/05%20-%20Classes/Classes.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/05%20-%20Classes/Classes-JavaPlaceHolder.txt)
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/05%20-%20Classes/Classes.java)
 
 # Instance reference name in data type (class)
   ### C#
