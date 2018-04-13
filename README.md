@@ -60,12 +60,14 @@
   Supports user written getters and setters, but does not have built in getters and setters. As well, it does not have backing variables or computed properties, at least not out of the box.
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/07%20-%20Properties/Properties.java)
 
-# Interfaces / protocols -------------------------
+# Interfaces / protocols
+  Neither C# or Java support multiple inheritence, but allow for that kind of behavior through interfaces given that a class can implement multiple interfaces, as well as an interface can extend other interfaces.
+
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/08%20-%20Interfaces/Interfaces-C%23PlaceHolder.txt)
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/08%20-%20Interfaces/Interfaces.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/08%20-%20Interfaces/Interfaces-C%23PlaceHolder.txt)
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/08%20-%20Interfaces/Interfaces.java)
 
 # Inheritance / extension -------------------------
   #### C#
