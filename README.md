@@ -53,10 +53,12 @@
 
 # Properties
   ### C#
+  Supports user written getters and setters, as well as it has built in ones. Also supports backing variables, and computed properties.
   - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/07%20-%20Properties/Properties.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/07%20-%20Properties/Properties-JavaPlaceHolder.txt)
+  Supports user written getters and setters, but does not have built in getters and setters. As well, it does not have backing variables or computed properties, at least not out of the box.
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/07%20-%20Properties/Properties.java)
 
 # Interfaces / protocols -------------------------
   ### C#
