@@ -73,19 +73,21 @@
   As stated above in Interfaces / Protocols, neither C# or Java support multiple inheritance.
 
   #### C#
-  C# does also support extensions of existing classes/interfaces unlike Java.
+  Supports extensions of existing classes/interfaces unlike Java.
   - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/09%20-%20Inheritence%20-%20extension/Inheritence%20-%20Extension.cs)
    
   ### Java
   Does not support extensions.
    - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/09%20-%20Inheritence%20-%20extension/Inheritence%20-%20Extension.java)
 
-# Reflection -------------------------
+# Reflection
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/10%20-%20Reflection/Reflection-C%23PlaceHolder.txt)
+  Supports access to attributes in a program's metadata, examining and instantiating types in an assembly, building new types at runtime, performing lat binding, and accessing methods on types created at run time.
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/10%20-%20Reflection/Reflection.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/10%20-%20Reflection/Reflection-JavaPlaceHolder.txt)
+  Some of the abilities of reflection in java are: obtaining information on methods of a class, class constructors, class fields, invoking methods by name, creating new objects, and changing values of fields.
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/10%20-%20Reflection/Reflection.java)
 
 # Memory management -------------------------
   ### C#
