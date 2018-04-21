@@ -127,12 +127,13 @@
   ### Java
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/14%20-%20Errors%20and%20exception%20handling/Errors%20and%20exception%20handling.java)
 
-# Lambda expressions, closures, or functions as types -------------------------
+# Lambda expressions, closures, or functions as types
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/15%20-%20Lambda%20expressions%2C%20closures%2C%20or%20functions%20as%20types/Lambda%20expressions%2C%20closures%2C%20or%20functions%20as%20types-C%23PlaceHolder.txt)
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/15%20-%20Lambda%20expressions,%20closures,%20or%20functions%20as%20types/Lambda%20expressions,%20closures,%20or%20functions%20as%20types.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/15%20-%20Lambda%20expressions%2C%20closures%2C%20or%20functions%20as%20types/Lambda%20expressions%2C%20closures%2C%20or%20functions%20as%20types-JavaPlaceHolder.txt)
+  As of Java 8, lambdas are supported.
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/15%20-%20Lambda%20expressions,%20closures,%20or%20functions%20as%20types/Lambda%20expressions,%20closures,%20or%20functions%20as%20types.java)
 
 # Implementation of listeners and event handlers -------------------------
   ### C#
