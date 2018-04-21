@@ -89,15 +89,14 @@
   Some of the abilities of reflection in java are: obtaining information on methods of a class, class constructors, class fields, invoking methods by name, creating new objects, and changing values of fields.
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/10%20-%20Reflection/Reflection.java)
 
-# Memory management -------------------------
+# Memory management
   ### C#
   Uses garbage collection from the .NET Framework. The majority of objects created and used are taken care of by the garbage collector alleviating the need for the user to keep track of memory management. However, there are still what are called 'unamaged resources' (according to the [.Net Documentation](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)) that the user has to take care of, ie. "objects that wrap operating system resources, such as files, windows, network connections, or database connections." ([.Net Documentation](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged))
-  There are two ways provided in the documentation to deal with these unmanaged resources: implementing IDisposable.Dispose and insure that your unmanaged resources are released in the event that dispose is not called by either using a safe handl to wrap the unmanaged resources, or overriding the Object.Finalize method. The safe handl approach is the recommened technique.
+  There are two ways provided in the documentation to deal with these unmanaged resources: implementing IDisposable.Dispose and insure that your unmanaged resources are released in the event that dispose is not called, by either using a safe handle to wrap the unmanaged resources, or overriding the Object.Finalize method. The safe handle approach is the recommened technique.
   - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/11%20-%20Memory%20management/Memory%20management.cs)
     
   ### Java
-  Uses garbage collection.
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/11%20-%20Memory%20management/Memory%20management-JavaPlaceHolder.txt)
+  Uses garbage collection. Memory is used through a heap split into two parts, the young generation and the old generation. Newly created objects, as well as ones that are not very old, are kept in the young generation, which is also split into three parts: Eden space, and two Survivor Memory spaces. When the Eden space is filled, minor garbage collection (Minor GC) is called. This will move objects from the Eden space, as well as all the objects in a survivor space, to another survivor space so that one of the two survivor spaces is always empty. Eventually, objects that have survived several rounds of Minor GC are eventually moved to the old generation memory space. Primarily when the old generation space is full, major garbage collection (Major GC) is performed to try and reclaim space in the old generation.
 
 # Comparisons of references and values
   ### C#
