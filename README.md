@@ -118,12 +118,14 @@
   Uses 'Null.'
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/13%20-%20Null%20references/Null%20references.java)
 
-# Errors and exception handling -------------------------
+# Errors and exception handling
+  C# and Java both implement exceptions and exception handling in the form of try, catch, finally blocks, and the ability for users to throw, or rethrow exceptions.
+
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/14%20-%20Errors%20and%20exception%20handling/Errors%20and%20exception%20handling-C%23PlaceHolder.txt)
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/14%20-%20Errors%20and%20exception%20handling/Errors%20and%20exception%20handling.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/14%20-%20Errors%20and%20exception%20handling/Errors%20and%20exception%20handling-JavaPlaceHolder.txt)
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/14%20-%20Errors%20and%20exception%20handling/Errors%20and%20exception%20handling.java)
 
 # Lambda expressions, closures, or functions as types -------------------------
   ### C#
