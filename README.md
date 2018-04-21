@@ -91,8 +91,9 @@
 
 # Memory management -------------------------
   ### C#
-  Uses garbage collection from the .NET Framework.
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/11%20-%20Memory%20management/Memory%20management-C%23PlaceHolder.txt)
+  Uses garbage collection from the .NET Framework. The majority of objects created and used are taken care of by the garbage collector alleviating the need for the user to keep track of memory management. However, there are still what are called 'unamaged resources' (according to the [.Net Documentation](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)) that the user has to take care of, ie. "objects that wrap operating system resources, such as files, windows, network connections, or database connections." ([.Net Documentation](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged))
+  There are two ways provided in the documentation to deal with these unmanaged resources: implementing IDisposable.Dispose and insure that your unmanaged resources are released in the event that dispose is not called by either using a safe handl to wrap the unmanaged resources, or overriding the Object.Finalize method. The safe handl approach is the recommened technique.
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/11%20-%20Memory%20management/Memory%20management.cs)
     
   ### Java
   Uses garbage collection.
