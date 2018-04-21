@@ -9,7 +9,7 @@
 
 # Language purpose/genesis -------------------------
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/01%20-%20Language%20purpose/Language%20purpose-C%23PlaceHolder.txt)
+  C# more or less came about as a reaction by Microsoft to Java. Rather than jumping onto the Java bandwagon they enlisted the help of Anders Hejlsberg to architect and develop the language.
     
   ### Java
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/01%20-%20Language%20purpose/Language%20purpose-JavaPlaceHolder.txt)
