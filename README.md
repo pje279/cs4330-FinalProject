@@ -155,19 +155,16 @@
 The inner class is referenced no earlier (and therefore loaded no earlier by the class loader) than the moment that getInstance() is called. Thus, this solution is thread-safe without requiring special language constructs (i.e. volatile or synchronized)."
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/17%20-%20Singleton/Singleton.java)
 
-# Procedural programming -------------------------
-  ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/18%20-%20Procedural%20programming/Procedural%20programming-C%23PlaceHolder.txt)
-    
-  ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/18%20-%20Procedural%20programming/Procedural%20programming-JavaPlaceHolder.txt)
+# Procedural programming
+  C# and Java do not support procedural programming. Everything has to be in a class, including main.
 
-# Functional programming -------------------------
+# Functional programming
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/19%20-%20Functional%20programming/Functional%20programming-C%23PlaceHolder.txt)
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/19%20-%20Functional%20programming/Functional%20programming.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/19%20-%20Functional%20programming/Functional%20programming-JavaPlaceHolder.txt)
+  As of Java 8, functional programming is now supported.
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/19%20-%20Functional%20programming/Functional%20programming.java)
 
 # Multithreading -------------------------
   ### C#
