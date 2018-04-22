@@ -21,12 +21,14 @@
   ### Java
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/02%20-%20Unique%20features/Unique%20features-JavaPlaceHolder.txt)
 
-# Name spaces -------------------------
+# Name spaces ####([source for below](http://www.javacamp.org/javavscsharp/namespace.html))
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/03%20-%20Name%20spaces/Name%20spaces-C%23PlaceHolder.txt)
+  Namespaces are used to organize programs,both as an "internal" organization system for a program, and as an "external" organization system.
+  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/03%20-%20Name%20spaces/Name%20spaces.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/03%20-%20Name%20spaces/Name%20spaces-JavaPlaceHolder.txt)
+  Packages are used to organize files or public types to avoid type conflicts. Package constructs can be mapped to a file system.
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/03%20-%20Name%20spaces/Name%20spaces.java)
 
 # Types
   ### C#
