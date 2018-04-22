@@ -9,6 +9,8 @@ AsymmetricAlgorithm aa;
  * or fully-qualified name to 
  * mention the specific type. */
 
+/*****************************************/
+           
 pacakge N1.N2;
     class A {}
     class B {}
