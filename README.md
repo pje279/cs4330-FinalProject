@@ -166,7 +166,7 @@ The inner class is referenced no earlier (and therefore loaded no earlier by the
   As of Java 8, functional programming is now supported.
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/19%20-%20Functional%20programming/Functional%20programming.java)
 
-# Multithreading -------------------------
+# Multithreading
   ### C#
   C# accomplishes multitasking through the use of threading and the .NET Framwork [System.Threading](https://docs.microsoft.com/en-us/dotnet/api/system.threading?view=netframework-4.7.2) namespace. "By default, a C# program has one thread. However, auxiliary threads can be created and used to execute code in parallel with the primary thread. These threads are often called worker threads." ([C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/threading/))
   - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/20%20-%20Multithreading/Multithreading.cs)
