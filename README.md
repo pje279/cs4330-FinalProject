@@ -22,7 +22,7 @@
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/02%20-%20Unique%20features/Unique%20features-JavaPlaceHolder.txt)
 
 # Name spaces
-## ([source for explanations and examples below](http://www.javacamp.org/javavscsharp/namespace.html))
+### ([source for explanations and examples below](http://www.javacamp.org/javavscsharp/namespace.html))
   ### C#
   Namespaces are used to organize programs,both as an "internal" organization system for a program, and as an "external" organization system.
   - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/03%20-%20Name%20spaces/Name%20spaces.cs)
