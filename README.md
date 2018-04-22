@@ -18,7 +18,7 @@
   ### C#
   Some of the most major ones are automatic getters and setters, Language-Integrated Query (LINQ) (SQL-like/declarative syntax that can be used on things like lists), and partial classes. 
   - [C# LINQ example](https://github.com/pje279/cs4330-FinalProject/blob/master/02%20-%20Unique%20features/Unique%20features.cs)
-  #### See properties for automatic properties example, and Inheritance/Extension for partial classes example.
+  ### See Properties for automatic properties example, and Inheritance/Extension for partial classes example.
     
   ### Java
   It is platform independent and portable, as well as has a lot of open-source/free frameworks and libraries. Many of the things that were unique to Java have since been adopted/emulated by other languages since it's release, and as a result, it no longer retains many features unique to it.
