@@ -7,7 +7,7 @@
   
 ---
 
-# Language purpose/genesis -------------------------
+# Language purpose/genesis
   ### C#
   C# more or less came about as a reaction by Microsoft to Java. Rather than jumping onto the Java bandwagon they enlisted the help of Anders Hejlsberg to architect and develop the language.
     
