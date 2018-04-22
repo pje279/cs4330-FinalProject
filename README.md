@@ -140,7 +140,7 @@
   - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/16%20-%20Implementation%20of%20listeners%20and%20event%20handlers/Implementation%20of%20listeners%20and%20event%20handlers.cs)
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/16%20-%20Implementation%20of%20listeners%20and%20event%20handlers/Implementation%20of%20listeners%20and%20event%20handlers.java
+  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/16%20-%20Implementation%20of%20listeners%20and%20event%20handlers/Implementation%20of%20listeners%20and%20event%20handlers.java)
 
 # Singleton
   ### C#
