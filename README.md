@@ -12,13 +12,13 @@
   C# more or less came about as a reaction by Microsoft to Java. Rather than jumping onto the Java bandwagon they enlisted the help of Anders Hejlsberg to architect and develop the language.
     
   ### Java
+  #### [From wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
   The principles in which Java was created were:
   1. It must be "simple, object-oriented, and familiar".
   2. It must be "robust and secure".
   3. It must be "architecture-neutral and portable".
   4. It must execute with "high performance".
   5. It must be "interpreted, threaded, and dynamic".
-  #### [From wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
   
   As well, Java was created with the idea "write once, run anywhere" ([WORA](https://en.wikipedia.org/wiki/Write_once,_run_anywhere)).
 
