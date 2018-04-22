@@ -16,15 +16,17 @@
 
 # Unique features of the language -------------------------
   ### C#
-  - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/02%20-%20Unique%20features/Unique%20features-C%23PlaceHolder.txt)
+  Some of the most major ones are automatic getters and setters, Language-Integrated Query (LINQ) (SQL-like/declarative syntax that can be used on things like lists), and partial classes. 
+  - [C# LINQ example](https://github.com/pje279/cs4330-FinalProject/blob/master/02%20-%20Unique%20features/Unique%20features.cs)
+  ##### See properties for automatic properties example, and Inheritance/Extension for partial classes example.
     
   ### Java
-  - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/02%20-%20Unique%20features/Unique%20features-JavaPlaceHolder.txt)
+  It is platform independent and portable, as well as has a lot of open-source/free frameworks and libraries. Many of the things that were unique to Java have since been adopted/emulated by other languages since it's release, and as a result, it no longer retains many features unique to it.
 
 # Name spaces
 ### ([source for explanations and examples below](http://www.javacamp.org/javavscsharp/namespace.html))
   ### C#
-  Namespaces are used to organize programs,both as an "internal" organization system for a program, and as an "external" organization system.
+  Namespaces are used to organize programs, both as an "internal" organization system for a program, and as an "external" organization system.
   - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/03%20-%20Name%20spaces/Name%20spaces.cs)
     
   ### Java
