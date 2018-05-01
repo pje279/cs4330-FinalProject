@@ -147,11 +147,11 @@
   As of Java 8, lambdas are supported.
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/15%20-%20Lambda%20expressions,%20closures,%20or%20functions%20as%20types/Lambda%20expressions,%20closures,%20or%20functions%20as%20types.java)
 
-# Implementation of listeners and event handlers -------------------------
+# Implementation of listeners and event handlers
   ### C#
   - [C# example](https://github.com/pje279/cs4330-FinalProject/blob/master/16%20-%20Implementation%20of%20listeners%20and%20event%20handlers/Implementation%20of%20listeners%20and%20event%20handlers.cs)
     
-  ### Java -------------------------
+  ### Java
   - [Java example](https://github.com/pje279/cs4330-FinalProject/blob/master/16%20-%20Implementation%20of%20listeners%20and%20event%20handlers/Implementation%20of%20listeners%20and%20event%20handlers.java)
 
 # Singleton
